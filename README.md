@@ -1,10 +1,10 @@
-# Hi 👋, I'm [Aziz]
 
-A passionate [Votre spécialisation]
+<h1 align="center">Hi 👋, I'm Aziz</h1>
+<h3 align="center">A passionate ia  engineer</h3>
 
 🌱 I'm looking to collaborate on *anything that can make life better*  
-💬 Ask me about *anything in relation with [Votre domaine]*  
-📫 How to reach me: [votre-email@example.com]  
+💬 Ask me about *anything in relation with it *  
+📫 How to reach me: meriemjatlaoui3@gmail.com 
 ⚡ IT Quote: *"Clean code always looks like it was written by someone who cares." — Robert C. Martin*
 
 ### Connect with me:
@@ -19,5 +19,5 @@ A passionate [Votre spécialisation]
 ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white)
-![Python]
-(https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+/
