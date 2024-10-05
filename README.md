@@ -8,7 +8,7 @@
 ⚡ IT Quote: *"Clean code always looks like it was written by someone who cares." — Robert C. Martin*
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/votre-profil](https://www.linkedin.com/in/mohamed-aziz-jemmaoui/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-aziz-jemmaoui/)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook)](https://facebook.com/votre-profil)
 
 
