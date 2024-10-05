@@ -4,7 +4,7 @@
 
 🌱 I'm looking to collaborate on *anything that can make life better*  
 💬 Ask me about *anything in relation with it *  
-📫 How to reach me: zizwajemmaoui@gmail.com 
+📫 How to reach me: med.aziz.jemmaoui@gmail.com 
 ⚡ IT Quote: *"Clean code always looks like it was written by someone who cares." — Robert C. Martin*
 
 ### Connect with me:
